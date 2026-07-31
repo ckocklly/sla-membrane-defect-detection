@@ -1,5 +1,5 @@
-# SLA Print Error Failure Detector
-This framework detects membrane holes and unwanted debris, which are factors that lead to error in stereolithography (SLA) 3D printing, using traditional computer vision algorithms.
+# DLP Membrane Defect Detector
+This framework detects membrane holes and unwanted debris, which are factors that lead to error in digital light processing (DLP) 3D printing, using traditional computer vision algorithms.
 
 View `main.ipynb` for project details.
 
@@ -19,4 +19,4 @@ View `main.ipynb` for project details.
 
 ## Acknowledgments
  - Matthew Chew from R&D, LuxCreo for mentorship
- 
+ - Ethan Pan from R&D, LuxCreo for hardware setup
